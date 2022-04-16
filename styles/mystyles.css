@@ -1,0 +1,106 @@
+.homebg{
+    background-image: url("/assets/images/bg1.webp")
+}
+
+.underlines{
+    text-decoration: underline
+}
+
+.italics{
+    font-style:italic
+
+}
+
+.bgcolor{
+    background-color: whitesmoke
+}
+
+.graybg{
+    background-color: gray
+}
+.contactlist{
+    font-style: normal;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-decoration-color: gray;
+    margin-left: 35px
+}
+
+.contactleftmargin{
+    margin-left: 20px
+}
+
+.centertext{
+    text-align: center
+}
+.lefttext{
+    text-align: end
+}
+.fontbig{
+    font-size: 40px
+
+}
+.box{
+    
+    text-align: center
+}
+
+.cursive{
+    
+    font-family: cursive
+}
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+    
+}
+
+.left{
+    
+    display:block;
+    margin-left: inherit;
+        margin-right:inherit;
+            width: 45%;
+    height: 300px
+}
+
+.right{
+    
+    display:block;
+    margin-left: auto;
+    margin-right:inherit;
+    width: 45%;
+    height:300px
+}
+
+.resumefont{
+    font-size:22px
+}
+
+.imagerightmargin{
+    margin-right: 20px
+}
+
+.subtitle{
+    text-decoration-color: lightgoldenrodyellow
+}
+
+.headingcolor{
+    text-decoration-color: skyblue
+}
+
+.bold{
+    font-weight:900 
+}
+
+.headingborder{
+    border-left: 5px
+}
+
+.blue{
+    text-decoration-color: blue
+}
